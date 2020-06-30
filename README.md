@@ -4,3 +4,4 @@ Using this as a learning application to build up experience using the .net core 
 
 All files are committed for learning purposes.
 
+51:29
